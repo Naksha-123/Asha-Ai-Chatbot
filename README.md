@@ -1,9 +1,6 @@
 # 🌸 Asha AI Bot - Empowering Women Through Intelligent Conversations
 
-> Built by **Team Sakhii** | ASHA AI Hackathon 2025  
-> Organized by **JobsForHer Foundation** in collaboration with **Hack2skill**
 
----
 
 ## 🔥 Project Overview
 
@@ -59,10 +56,7 @@ The chatbot is built with ethical AI principles, ensuring private, inclusive, an
 
 ![Wireframe](assets/wireframe.jpg)
 
-### Snapshots of Prototype
 
-![Prototype](assets/snapshot_of_prototype.jpg)
-![Prototype](assets/snapshot_of_prototype1.jpg)
 
 
 ---
@@ -151,12 +145,6 @@ uvicorn main:app --reload
 
 ---
 
-## 📹 Demo & Links
-
-- 🔗 GitHub Repo: [https://github.com/ananyag309/Asha-Hackthon]
-- 📺 Demo Video: [https://drive.google.com/file/d/1ofZnJu2Xv36dk_RuAN2P3BCC6F06f3LS/view]
-
----
 
 ## 📍 Roadmap
 
@@ -168,19 +156,3 @@ uvicorn main:app --reload
 
 ---
 
-## 👥 Team Sakhii
-
-- 👩‍💻 Ananya Gupta
-- 🤖 Devanshi Jaiswal
-- 📊 Aditi Singh
-- 🎨 Aditi Jain
-
----
-
-## 📜 License
-
-Licensed under MIT. Free to use and modify for social impact and NGO deployment.
-
----
-
-> _Created with passion to empower women through inclusive and ethical AI at ASHA AI Hackathon 2025._
